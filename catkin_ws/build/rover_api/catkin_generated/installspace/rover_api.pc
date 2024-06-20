@@ -1,0 +1,8 @@
+prefix=/home/osboxes/catkin_ws/install
+
+Name: rover_api
+Description: Description of rover_api
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

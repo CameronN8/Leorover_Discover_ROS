@@ -1,0 +1,7 @@
+set(rover_api_SETUP_PY_SETUP_MODULE "distutils.core")
+set(rover_api_SETUP_PY_VERSION "0.0.0")
+set(rover_api_SETUP_PY_SCRIPTS "")
+set(rover_api_SETUP_PY_PACKAGES "rover_api")
+set(rover_api_SETUP_PY_PACKAGE_DIRS "src/rover_api")
+set(rover_api_SETUP_PY_MODULES "")
+set(rover_api_SETUP_PY_MODULE_DIRS "")
