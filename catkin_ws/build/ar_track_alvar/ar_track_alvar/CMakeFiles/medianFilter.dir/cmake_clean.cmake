@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/osboxes/catkin_ws/devel/lib/libmedianFilter.pdb"
-  "/home/osboxes/catkin_ws/devel/lib/libmedianFilter.so"
+  "/root/catkin_ws/devel/lib/libmedianFilter.pdb"
+  "/root/catkin_ws/devel/lib/libmedianFilter.so"
   "CMakeFiles/medianFilter.dir/src/medianFilter.cpp.o"
 )
 

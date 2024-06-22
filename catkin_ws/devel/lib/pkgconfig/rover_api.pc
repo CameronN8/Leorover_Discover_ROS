@@ -1,4 +1,4 @@
-prefix=/home/osboxes/catkin_ws/devel
+prefix=/root/catkin_ws/devel
 
 Name: rover_api
 Description: Description of rover_api

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/osboxes/catkin_ws/src/ar_track_alvar/ar_track_alvar/src/kinect_filtering.cpp" "/home/osboxes/catkin_ws/build/ar_track_alvar/ar_track_alvar/CMakeFiles/kinect_filtering.dir/src/kinect_filtering.cpp.o"
+  "/root/catkin_ws/src/ar_track_alvar/ar_track_alvar/src/kinect_filtering.cpp" "/root/catkin_ws/build/ar_track_alvar/ar_track_alvar/CMakeFiles/kinect_filtering.dir/src/kinect_filtering.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -18,8 +18,8 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/osboxes/catkin_ws/devel/include"
-  "/home/osboxes/catkin_ws/src/ar_track_alvar/ar_track_alvar/include"
+  "/root/catkin_ws/devel/include"
+  "/root/catkin_ws/src/ar_track_alvar/ar_track_alvar/include"
   "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/opencv4"

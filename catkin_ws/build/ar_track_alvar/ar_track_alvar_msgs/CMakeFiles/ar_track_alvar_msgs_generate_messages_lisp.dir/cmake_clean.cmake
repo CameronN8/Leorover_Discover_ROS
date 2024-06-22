@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/osboxes/catkin_ws/devel/share/common-lisp/ros/ar_track_alvar_msgs/msg/AlvarMarker.lisp"
-  "/home/osboxes/catkin_ws/devel/share/common-lisp/ros/ar_track_alvar_msgs/msg/AlvarMarkers.lisp"
+  "/root/catkin_ws/devel/share/common-lisp/ros/ar_track_alvar_msgs/msg/AlvarMarker.lisp"
+  "/root/catkin_ws/devel/share/common-lisp/ros/ar_track_alvar_msgs/msg/AlvarMarkers.lisp"
   "CMakeFiles/ar_track_alvar_msgs_generate_messages_lisp"
 )
 

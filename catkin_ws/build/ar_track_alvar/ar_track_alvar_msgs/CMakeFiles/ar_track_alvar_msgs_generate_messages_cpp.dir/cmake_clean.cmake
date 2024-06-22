@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/osboxes/catkin_ws/devel/include/ar_track_alvar_msgs/AlvarMarker.h"
-  "/home/osboxes/catkin_ws/devel/include/ar_track_alvar_msgs/AlvarMarkers.h"
+  "/root/catkin_ws/devel/include/ar_track_alvar_msgs/AlvarMarker.h"
+  "/root/catkin_ws/devel/include/ar_track_alvar_msgs/AlvarMarkers.h"
   "CMakeFiles/ar_track_alvar_msgs_generate_messages_cpp"
 )
 

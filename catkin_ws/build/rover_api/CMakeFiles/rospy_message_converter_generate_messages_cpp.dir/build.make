@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/osboxes/catkin_ws/src
+CMAKE_SOURCE_DIR = /root/catkin_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/osboxes/catkin_ws/build
+CMAKE_BINARY_DIR = /root/catkin_ws/build
 
 # Utility rule file for rospy_message_converter_generate_messages_cpp.
 
@@ -63,10 +63,10 @@ rover_api/CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/build: ro
 .PHONY : rover_api/CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/build
 
 rover_api/CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/clean:
-	cd /home/osboxes/catkin_ws/build/rover_api && $(CMAKE_COMMAND) -P CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/cmake_clean.cmake
+	cd /root/catkin_ws/build/rover_api && $(CMAKE_COMMAND) -P CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/cmake_clean.cmake
 .PHONY : rover_api/CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/clean
 
 rover_api/CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/depend:
-	cd /home/osboxes/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/osboxes/catkin_ws/src /home/osboxes/catkin_ws/src/rover_api /home/osboxes/catkin_ws/build /home/osboxes/catkin_ws/build/rover_api /home/osboxes/catkin_ws/build/rover_api/CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /root/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /root/catkin_ws/src /root/catkin_ws/src/rover_api /root/catkin_ws/build /root/catkin_ws/build/rover_api /root/catkin_ws/build/rover_api/CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : rover_api/CMakeFiles/rospy_message_converter_generate_messages_cpp.dir/depend
 

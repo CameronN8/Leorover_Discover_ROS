@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/osboxes/catkin_ws/devel/lib/ar_track_alvar/findMarkerBundlesNoKinect"
-  "/home/osboxes/catkin_ws/devel/lib/ar_track_alvar/findMarkerBundlesNoKinect.pdb"
+  "/root/catkin_ws/devel/lib/ar_track_alvar/findMarkerBundlesNoKinect"
+  "/root/catkin_ws/devel/lib/ar_track_alvar/findMarkerBundlesNoKinect.pdb"
   "CMakeFiles/findMarkerBundlesNoKinect.dir/nodes/FindMarkerBundlesNoKinect.cpp.o"
 )
 

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/osboxes/catkin_ws/devel/lib/python3/dist-packages/ar_track_alvar_msgs/msg/_AlvarMarker.py"
-  "/home/osboxes/catkin_ws/devel/lib/python3/dist-packages/ar_track_alvar_msgs/msg/_AlvarMarkers.py"
-  "/home/osboxes/catkin_ws/devel/lib/python3/dist-packages/ar_track_alvar_msgs/msg/__init__.py"
+  "/root/catkin_ws/devel/lib/python3/dist-packages/ar_track_alvar_msgs/msg/_AlvarMarker.py"
+  "/root/catkin_ws/devel/lib/python3/dist-packages/ar_track_alvar_msgs/msg/_AlvarMarkers.py"
+  "/root/catkin_ws/devel/lib/python3/dist-packages/ar_track_alvar_msgs/msg/__init__.py"
   "CMakeFiles/ar_track_alvar_msgs_generate_messages_py"
 )
 

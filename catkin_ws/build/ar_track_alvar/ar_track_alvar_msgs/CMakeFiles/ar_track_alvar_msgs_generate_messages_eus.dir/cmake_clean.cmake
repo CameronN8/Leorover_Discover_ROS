@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/osboxes/catkin_ws/devel/share/roseus/ros/ar_track_alvar_msgs/manifest.l"
-  "/home/osboxes/catkin_ws/devel/share/roseus/ros/ar_track_alvar_msgs/msg/AlvarMarker.l"
-  "/home/osboxes/catkin_ws/devel/share/roseus/ros/ar_track_alvar_msgs/msg/AlvarMarkers.l"
+  "/root/catkin_ws/devel/share/roseus/ros/ar_track_alvar_msgs/manifest.l"
+  "/root/catkin_ws/devel/share/roseus/ros/ar_track_alvar_msgs/msg/AlvarMarker.l"
+  "/root/catkin_ws/devel/share/roseus/ros/ar_track_alvar_msgs/msg/AlvarMarkers.l"
   "CMakeFiles/ar_track_alvar_msgs_generate_messages_eus"
 )
 

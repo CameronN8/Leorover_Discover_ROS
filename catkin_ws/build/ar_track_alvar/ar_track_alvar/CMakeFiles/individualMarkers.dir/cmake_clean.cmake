@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/osboxes/catkin_ws/devel/lib/ar_track_alvar/individualMarkers"
-  "/home/osboxes/catkin_ws/devel/lib/ar_track_alvar/individualMarkers.pdb"
+  "/root/catkin_ws/devel/lib/ar_track_alvar/individualMarkers"
+  "/root/catkin_ws/devel/lib/ar_track_alvar/individualMarkers.pdb"
   "CMakeFiles/individualMarkers.dir/nodes/IndividualMarkers.cpp.o"
 )
 

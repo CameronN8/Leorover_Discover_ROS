@@ -1,4 +1,4 @@
-prefix=/home/osboxes/catkin_ws/install
+prefix=/root/catkin_ws/install
 
 Name: rover_api
 Description: Description of rover_api
